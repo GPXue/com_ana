@@ -46,5 +46,6 @@ A csv file will be printed out after processing.
   A csv file will be printed put after processing.
 
   Example figure:
-[all_pockets_rmsf_three](https://github.com/GPXue/com_ana/assets/106397682/60a2fd2d-ed7f-4322-9e5d-45464bc625d5)
+
+![all_pockets_rmsf_full](https://github.com/GPXue/com_ana/assets/106397682/bee7cafb-db91-460d-8069-9e93862f6e9a)
 
