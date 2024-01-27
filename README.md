@@ -1,5 +1,5 @@
 # com_ana
-A Python package for protein trajectory analysis. com_ana based on MDAnalysis for binary files reading, consists of various analysis including hydrogen bond analysis, loop angle analysis, water check, protein distance contact map, cation-pi analysis, and root mean square fluctuation (RMSF).
+com_ana is a user friendly Python package for protein trajectory analysis. com_ana based on MDAnalysis for binary files reading, consists of various analysis including hydrogen bond analysis, loop angle analysis, water check, protein distance contact map, cation-pi analysis, and root mean square fluctuation (RMSF). com_ana is still being updated, free to use!
 
 ### Installation
 pip install com_ana
