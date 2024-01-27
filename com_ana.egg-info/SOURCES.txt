@@ -1,0 +1,5 @@
+setup.py
+com_ana.egg-info/PKG-INFO
+com_ana.egg-info/SOURCES.txt
+com_ana.egg-info/dependency_links.txt
+com_ana.egg-info/top_level.txt

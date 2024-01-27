@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: com-ana
+Version: 1.1.3
+Summary: md_protein_process is a Python package for protein process
+Author: Guangpeng Xue
+Author-email: athonyxue@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+
