@@ -49,3 +49,6 @@ A csv file will be printed out after processing.
 
 ![all_pockets_rmsf_full](https://github.com/GPXue/com_ana/assets/106397682/bee7cafb-db91-460d-8069-9e93862f6e9a)
 
+- Protein distance contact
+  ca.protein_distance_contact_map(arg1,arg2,universe,dis_cutoff)
+  A csv file will be printed out after processing. 
